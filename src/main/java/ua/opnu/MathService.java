@@ -1,5 +1,5 @@
-package ua.opnu;
 
+package ua.opnu;
 
 public class MathService {
     public int multiply(int a, int b) {
